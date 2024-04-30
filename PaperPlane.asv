@@ -21,7 +21,6 @@
 							% Corresponding Velocity, m/s
 	Alpha	=	CL / CLa;			% Corresponding Angle of Attack, rad
 
-    font = 'Lucida Bright';
 %%  Step 2
 
 %	a) Equilibrium Glide at Maximum Lift/Drag Ratio
@@ -70,7 +69,6 @@
     ylabel("Height (m)");
     title("Flight Trajectory with Varying Velocity (m/s)");
     grid on
-    fontname(font)
     legend show
  
     subplot(2,1,2)  %Varying Gamma Plot
@@ -83,5 +81,4 @@
     ylabel("Height (m)");
     title("Flight Trajectory with Varying Gamma (rad)");
     grid on
-    fontname(font)
     legend show
