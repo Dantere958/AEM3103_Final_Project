@@ -81,7 +81,7 @@
 	plot(xMinG(:,4),xMinG(:,3),DisplayName='Minimum Gamma')
     xlabel("Range (m)");
     ylabel("Height (m)");
-    title("Flight Trajectory with Varying Gamma (rad)");
+    title({'';'Flight Trajectory with Varying Gamma (rad)'})
     grid on
     fontname(font)
     legend show
