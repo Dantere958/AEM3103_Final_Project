@@ -1,2 +1,4 @@
-# AEM3103_Final_Project
-Final Project for Computer Methods in Aerospace Engineering 
+ # Paper Airplane Numerical Study
+  Final Project: AEM 3103 Spring 2024
+
+  - By: Daniel Tereshko & Ashton Rodgers
