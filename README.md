@@ -1,2 +1,2 @@
 # AEM3103_Final_Project
-Computer Methods in Aerospace Engineering Final Project
+Final Project for Computer Methods in Aerospace Engineering 
