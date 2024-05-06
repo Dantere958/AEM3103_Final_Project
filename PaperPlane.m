@@ -106,7 +106,7 @@ for i = 1:N
     ranges = [ranges; x(:,4)];
     times = [times; t];
 
-    plot(x(:,4),x(:,3),)
+    plot(x(:,4),x(:,3))
     hold on
 end
 
@@ -114,3 +114,4 @@ polyRange = polyfit(times, ranges,9);
 polyHeight = polyfit(times,heights,9);
 
 plot(polyval(polyRange,t), polyval(polyHeight,t),'k',LineWidth=4)
+
