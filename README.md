@@ -3,13 +3,7 @@
 
   - By: Daniel Tereshko & Ashton Rodgers
 
-
 ![Figure 1](/figures/figure1.jpg)
-
-  # Paper Airplane Numerical Study
-  Final Project: AEM 3103 Spring 2024
-
-  - By: <NAME or NAMES of team members, if completed as a team>
 
   ## Summary of Findings
   <Show the variations studied in a table>
