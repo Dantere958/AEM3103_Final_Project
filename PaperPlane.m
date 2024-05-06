@@ -133,3 +133,45 @@ hold on
 subplot(2,1,2)
 plot(tvals, polyval(derRange, tvals), 'k', LineWidth=2)
 xlabel("Derivative of Time"), ylabel("Derivative of Range");
+
+%% Point-Mass Animation of Trajectory
+clc
+figure;
+
+x_n = [3.55;-0.18;H;R];
+[t_n,x_n] =	ode23('EqMotion',tspan,x_n);
+
+x_s = [7.5;0.4;H;R];
+[t_s,x_s] =	ode23('EqMotion',tspan,x_s);
+
+
+height_n = x_n(:,3);
+range_n = x_n(:,4);
+
+height_s = x_s(:,3);
+range_s = x_s(:,4);
+
+for k = 1:length(range_s)
+    if k < length(range_n)
+        plot(range_n(k), height_n(k), 'b.')
+        hold on   
+        plot(range_n(1:k), height_n(1:k), 'g')
+        hold on
+    else
+        plot(range_n, height_n, 'g')
+        hold on
+    end
+    
+
+    plot(range_s(k), height_s(k), 'r.')
+    hold on
+
+    plot(range_s(1:k), height_s(1:k), 'b')
+    hold on
+
+    axis([0 25 -4 5])
+    pause(0.1)
+
+    hold off
+end
+
