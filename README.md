@@ -3,8 +3,6 @@
 
   - By: Daniel Tereshko & Ashton Rodgers
 
-![Figure 1](/figures/figure1.jpg)
-
   ## Summary of Findings
   <Show the variations studied in a table>
 
@@ -19,6 +17,7 @@
   # Figures
 
   ## Fig. 1: Single Parameter Variation
+  ![Figure 1](/figures/figure1.jpg)
   <2D trajectory simulated by varying single parameter at at time>
   <The above plot should also show the nominal trajectory>
 
