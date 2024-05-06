@@ -111,8 +111,8 @@ for i = 1:N
 end
 
 %% Step 4 - Average Trajectory Through Polynomial Fit
-polyRange = polyfit(times, ranges,9);
-polyHeight = polyfit(times,heights,9);
+polyRange = polyfit(times, ranges,6);
+polyHeight = polyfit(times,heights,6);
 
 plot(polyval(polyRange,t), polyval(polyHeight,t),'k',LineWidth=4)
 
@@ -125,11 +125,13 @@ tvals = linspace(0, 6, 100);
 figure
 
 subplot(2,1,1)
-plot(tvals, polyval(derHeight, tvals), 'k', LineWidth=2)
+plot(t, polyval(derHeight, t), 'k', LineWidth=2)
 xlabel("Derivative of Time"), ylabel("Derivative of Height");
 
 hold on
 
 subplot(2,1,2)
-plot(tvals, polyval(derRange, tvals), 'k', LineWidth=2)
+plot(t, polyval(derRange, t), 'k', LineWidth=2)
 xlabel("Derivative of Time"), ylabel("Derivative of Range");
+
+length(derHeight)
