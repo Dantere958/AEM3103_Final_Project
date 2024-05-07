@@ -10,7 +10,7 @@
   | Velocity|2 m/s   |3.55 m/s| 7.5 m/s|
   | Gamma   |-0.5 rad|-0.18 rad| 0.4 rad|
 
-  This study aimed to analyze the trajectory of a paper airplane. The data used was that for an equilibrium glide at a maximum lift/ drag ratio from the file [paperplane.m](http://www.stengel.mycpanel.princeton.edu/PaperPlane.m). There were three major findings; From figure 1, it is clear that if the plane is thrown at its maximum velocity, it will always pitch up and sometimes even flip over as seen in figure 2. The plane will also always return to trim. Lastly, it is clear that the trajectory of the plane will not exhibit oscillatory behavior if the variation is nominal, as seen through figure 1's dotted lines.
+  This study aimed to analyze the trajectory of a paper airplane. The data used was that for an equilibrium glide at a maximum lift/ drag ratio from the file [paperplane.m](http://www.stengel.mycpanel.princeton.edu/PaperPlane.m). There were three major findings; From figure 1, it is clear that if the plane is thrown at its maximum velocity, it will always pitch up and sometimes even flip over as seen in figure 2. Secondly, the plane will always return to trim. Lastly, it is clear that the trajectory of the plane will not exhibit oscillatory behavior if the variation is nominal, as seen through figure 1's dotted lines.
  
   # Code Listing
   - [EqMotion.m](EqMotion.m)
