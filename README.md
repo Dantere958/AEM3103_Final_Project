@@ -20,12 +20,14 @@
   The graphs above depict the trajectory of the paper airplane when varying its velocity and gamma.
   
 
-  ## Fig. 2: Monte Carlo Simulation
+  ## Fig. 2: Monte Carlo Simulation]
+  ![Figure 2](/figures/figure2.jpg)
   <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
 
   Briefly describe what is being shown in the figure.
 
- ## Fig. 3: Time Derivatives
+ ## Fig. 3: Time Derivatives]
+ ![Figure 3](/figures/figure3.jpg)
  <Time-derivative of height and range for the fitted trajectory>
 
   Briefly describe what is being shown in the figure.
