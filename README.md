@@ -22,15 +22,12 @@
 
   ## Fig. 2: Monte Carlo Simulation]
   ![Figure 2](/figures/figure2.jpg)
-  <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
-
-  Briefly describe what is being shown in the figure.
+  The graph above shows the trajectories of the paper airplane after 100 trials of randomly choosing a velocity and gamma value from a range of max and mins. The average trajectory is shown as a black line.
 
  ## Fig. 3: Time Derivatives]
  ![Figure 3](/figures/figure3.jpg)
  <Time-derivative of height and range for the fitted trajectory>
-
-  Briefly describe what is being shown in the figure.
+  The graphs above show the time derivates of height and range for the average trajectory. 
 
   # Animation
   ## Point-Mass Animation
