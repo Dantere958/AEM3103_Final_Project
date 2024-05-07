@@ -17,6 +17,7 @@
   A list of each function/script and a single-line description of what it does.  The name of the function/script should link to the file in the repository on GitHub.
 
   [EqMotion.m](EqMotion.m)
+  
   Matlab file holding the equations of motion for the paper airplane.
   
 
