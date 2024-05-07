@@ -14,11 +14,10 @@
   Reference the figures below as needed.
  
   # Code Listing
-  A list of each function/script and a single-line description of what it does.  The name of the function/script should link to the file in the repository on GitHub.
+  - [EqMotion.m](EqMotion.m)
+  This is a function that calculates the equations of motion of a paper plane using the four inputs: The initial velocity, flight path angle, height and range.
 
-  [EqMotion.m](EqMotion.m)
-  This is a function that calculates the equations of motion of a paper plane using the four inputs: The initial velocity, flight path angle, height and range. 
-  [PaperPlane.m](PaperPlane.m)
+  - [PaperPlane.m](PaperPlane.m)
   This is the file that contains all of the code to create all of the visualizations of the paper planes motion. Works in cojunction with [EqMotion.m](EqMotion.m) to create the graphs and figures found in this study.
 
   # Figures
