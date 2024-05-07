@@ -28,6 +28,7 @@
  ## Fig. 3: Time Derivatives]
  ![Figure 3](/figures/figure3.jpg)
  <Time-derivative of height and range for the fitted trajectory>
+  
   The graphs above show the time derivates of height and range for the average trajectory. 
 
   # Animation
