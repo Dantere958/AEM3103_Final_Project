@@ -34,4 +34,5 @@
   # Animation
   ## Point-Mass Animation
   ![Figure 4](/figures/figure4.gif)
-  <Animated GIF showing 2D trajectory for nominal and the scenario (V=7.5 m/s, Gam=+0.4 rad)>
+
+  The gif above is a depiction of a comparison between the trajectories for a nominal flight, and one where velocity is 7.5 m/s and gamma is 0.4 rad.
