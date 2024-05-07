@@ -19,7 +19,7 @@
 
   - [PaperPlane.m](PaperPlane.m)
   
-  This is the file that contains all of the code to create all of the visualizations of the paper planes motion. Works in cojunction with [EqMotion.m](EqMotion.m) to create the graphs and figures found in this study.
+  This is the file that contains all of the code to create all of the visualizations of the paper plane's motion. Works in conjunction with [EqMotion.m](EqMotion.m) to create the graphs and figures found in this study.
 
   # Figures
 
@@ -36,8 +36,7 @@
 
  ## Fig. 3: Time Derivatives
  ![Figure 3](/figures/figure3.jpg)
- <Time-derivative of height and range for the fitted trajectory>
-  
+
   The graphs above show the time derivates of height and range for the average trajectory. 
 
   # Animation
