@@ -24,12 +24,12 @@
   The graphs above depict the trajectory of the paper airplane when varying its velocity and gamma.
   
 
-  ## Fig. 2: Monte Carlo Simulation]
+  ## Fig. 2: Monte Carlo Simulation
   ![Figure 2](/figures/figure2.jpg)
   
   The graph above shows the trajectories of the paper airplane after 100 trials of randomly choosing a velocity and gamma value from a range of max and mins. The average trajectory is shown as a black line.
 
- ## Fig. 3: Time Derivatives]
+ ## Fig. 3: Time Derivatives
  ![Figure 3](/figures/figure3.jpg)
  <Time-derivative of height and range for the fitted trajectory>
   
