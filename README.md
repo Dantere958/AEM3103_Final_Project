@@ -33,4 +33,5 @@
 
   # Animation
   ## Point-Mass Animation
+  ![Figure 4](/figures/figure4.gif)
   <Animated GIF showing 2D trajectory for nominal and the scenario (V=7.5 m/s, Gam=+0.4 rad)>
