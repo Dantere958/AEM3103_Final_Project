@@ -44,4 +44,4 @@
   ## Point-Mass Animation
   ![Figure 4](/figures/figure4.gif)
 
-  The gif above is a depiction of a comparison between the trajectories for a nominal and scenario flight.
+  The gif above is a depiction of a comparison between the trajectories for a scenario and nominal flight.
