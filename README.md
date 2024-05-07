@@ -16,6 +16,8 @@
   # Code Listing
   A list of each function/script and a single-line description of what it does.  The name of the function/script should link to the file in the repository on GitHub.
 
+  [EqMotion.m](EqMotion.m)
+
   # Figures
 
   ## Fig. 1: Single Parameter Variation
