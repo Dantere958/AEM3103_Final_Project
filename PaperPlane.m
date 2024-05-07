@@ -85,6 +85,7 @@
     grid on
     fontname(font)
     legend show
+
 %% Step 3 - Monte Carlo Simulation
 clc
 N = 100;
