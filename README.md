@@ -6,7 +6,7 @@
   ## Summary of Findings
   <Show the variations studied in a table>
 
-  This study aimed to analyze the trajectory of a paper airplane. The data used was that for an equilibrium glide at a maximum lift/ drag ratio from the file paperplane.m. There were three major findings; From figure 1, it is clear that the plane is thrown at its maximum velocity, it will always pitch up and sometimes even flip over. The plane will also always return to trim. Lastly the plane   "Paper Airplane Flight Path" which was gathered by Robert Stengel. Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
+  This study aimed to analyze the trajectory of a paper airplane. The data used was that for an equilibrium glide at a maximum lift/ drag ratio from the file paperplane.m. There were three major findings; From figure 1, it is clear that the plane is thrown at its maximum velocity, it will always pitch up and sometimes even flip over as seen in figure 2. The plane will also always return to trim. Lastly the plane   "Paper Airplane Flight Path" which was gathered by Robert Stengel. Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
   Reference the figures below as needed.
  
   # Code Listing
@@ -20,15 +20,16 @@
   The graphs above depict the trajectory of the paper airplane when varying its velocity and gamma.
   
 
-  ## Fig. 2: Monte Carlo Simulation
-  <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
+  ## Fig. 2: Monte Carlo Simulation]
+  ![Figure 2](/figures/figure2.jpg)
+  
+  The graph above shows the trajectories of the paper airplane after 100 trials of randomly choosing a velocity and gamma value from a range of max and mins. The average trajectory is shown as a black line.
 
-  Briefly describe what is being shown in the figure.
-
- ## Fig. 3: Time Derivatives
+ ## Fig. 3: Time Derivatives]
+ ![Figure 3](/figures/figure3.jpg)
  <Time-derivative of height and range for the fitted trajectory>
-
-  Briefly describe what is being shown in the figure.
+  
+  The graphs above show the time derivates of height and range for the average trajectory. 
 
   # Animation
   ## Point-Mass Animation
