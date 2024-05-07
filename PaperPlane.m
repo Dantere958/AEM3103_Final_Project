@@ -96,7 +96,7 @@ heights = [];
 ranges = [];
 times = [];
 
-color = [0 0.4470 0.7410]
+color = [0 0.4470 0.7410];
 
 for i = 1:N
     V = vRange(1) + (vRange(2) - vRange(1)) *rand(1);
@@ -179,7 +179,7 @@ for k = 1:length(range_s)
     plot(range_s(k), height_s(k), 'r.','HandleVisibility','off',LineWidth=3)
     hold on
 
-    plot(range_s(1:k), height_s(1:k), 'b','DisplayName','Nominal (v=7.5, gam=0.4)')
+    plot(range_s(1:k), height_s(1:k), 'b','DisplayName','Scenario (v=7.5, gam=0.4)')
     hold on
 
     axis([0 25 -4 5])
@@ -188,8 +188,8 @@ for k = 1:length(range_s)
     ylabel('Height(m)')
     fontname(font)
     legend show
-    pause(0.1)
-    
+    pause(0.01)
+
     hold off
 end
 
