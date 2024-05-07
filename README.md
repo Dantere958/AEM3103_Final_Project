@@ -18,10 +18,9 @@
 
   ## Fig. 1: Single Parameter Variation
   ![Figure 1](/figures/figure1.jpg)
-  <2D trajectory simulated by varying single parameter at at time>
-  <The above plot should also show the nominal trajectory>
 
-  Briefly describe what is being shown in the figure.
+  The graphs above depict the trajectory of the paper airplane when varying its velocity and gamma.
+  
 
   ## Fig. 2: Monte Carlo Simulation
   <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
@@ -33,12 +32,6 @@
 
   Briefly describe what is being shown in the figure.
 
-  (Below are for teams of 2-3 people)
-
   # Animation
   ## Point-Mass Animation
   <Animated GIF showing 2D trajectory for nominal and the scenario (V=7.5 m/s, Gam=+0.4 rad)>
-  
-  (Below are for teams of 3 people)
-  ## Graphical Animation
-  <Same as the above animation, except that the moving *point* should be a 2D drawing of an airplane, drawn using CAD>
