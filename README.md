@@ -4,9 +4,7 @@
   - By: Daniel Tereshko & Ashton Rodgers
 
   ## Summary of Findings
-  <Show the variations studied in a table>
 
- 
   |Variation| Minimum| Nominal| Maximum|
   |---------|--------|--------|--------|
   | Velocity|2 m/s   |3.55 m/s| 7.5 m/s|
