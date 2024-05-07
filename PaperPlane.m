@@ -75,6 +75,7 @@
  
     subplot(2,1,2)  %Varying Gamma Plot
     plot(xMaxG(:,4),xMaxG(:,3),DisplayName='Maximum Gamma')
+    ylim([-2,2.5]);
     hold on
     plot(xNomG(:,4),xNomG(:,3),'k--',DisplayName='Nominal Gamma')
     hold on
